@@ -41,11 +41,11 @@ public class PA2a {
 			posc++;
 		}
 		if (d > 0 ) {
-			sumpos = sumpos+c;
+			sumpos = sumpos+d;
 			posc++;
 		}
 		if (e > 0) {
-			sumpos = sumpos+c;
+			sumpos = sumpos+e;
 			posc++;
 		}
 		if (posc > 0) posavg=sumpos/posc;
